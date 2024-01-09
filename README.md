@@ -13,8 +13,25 @@ the upper command will install directory to install Kali Linux script
 by entering the upper command you will be directed to my script directory
 now eneter the next command
 down command make the script executable
-# `chmod +x 'Install Kali.sh'`.
+# `chmod +x 'Install Kali.sh'`
 Finally, initiate the installation by running 
-# `./'Install Kali.sh'`.
+# `./'Install Kali.sh'`
 These steps streamline the process, making it accessible for users to seamlessly install Kali Linux on their Termux environment.
 # After the Kali script is installed you will see a interface like this
+![Kali installation interface](https://github.com/UzairDeveloper223/Install-Kali-Linux-in-termux-on-Android-with-VNC/blob/8ee49189d929c2d26b7b42a628c802987c0554be/Screenshot_20240109-151838.jpg)
+Now type 1 and the kali Linux which will use 1.86 gb of internet and 12 -15 gb of storage will be start installing
+after it is install
+enter this in termux 
+`nethunter kex`
+You will require a password
+you will not see your password what you entered so be careful
+after you enter you password to times 
+type n and enter
+your VNC server will be started then
+download VNC viwer from play store and add click on'+'button and add these
+Ip address
+`localhost:1`
+name
+`Kali Linux`
+if any problem [Click here](mailto:uzairmugakh90@gmail.com) to send an email.
+ to contact me
