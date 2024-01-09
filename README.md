@@ -7,7 +7,7 @@ run this
 ensure you have Git installed using the command 
 # `apt install git`
 . Once Git is in place, the next step involves cloning the installation script from the provided GitHub repository. Execute 
-# `git clone https://github.com/UzairDeveloper223/INSTALL-KALI-Linux-on-Android-/blob/main/Installkali.sh`
+# `git clone https://github.com/UzairDeveloper223/Install-Kali-Linux-in-termux-on-Android-with-VNC/tree/Master`
 to retrieve the script. Subsequently, grant execute permissions to the script with 
 # `chmod +x Installkali.sh`.
 Finally, initiate the installation by running 
