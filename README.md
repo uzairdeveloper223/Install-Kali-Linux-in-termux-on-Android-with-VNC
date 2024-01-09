@@ -17,3 +17,4 @@ down command make the script executable
 Finally, initiate the installation by running 
 # `./'Install Kali.sh'`.
 These steps streamline the process, making it accessible for users to seamlessly install Kali Linux on their Termux environment.
+# After the Kali script is installed you will see a interface like this
