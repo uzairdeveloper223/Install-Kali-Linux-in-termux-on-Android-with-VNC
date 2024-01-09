@@ -29,4 +29,4 @@ echo -e "${BLUE}Executing Kali script"
 chmod +x install-nethunter-termux
 
 echo -e "${GREEN}Running Kali Install script"
-./install-nethunter-termux￼Enter
+./install-nethunter-termux
