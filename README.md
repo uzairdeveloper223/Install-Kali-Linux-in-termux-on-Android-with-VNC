@@ -7,9 +7,13 @@ run this
 ensure you have Git installed using the command 
 # `apt install git`
 . Once Git is in place, the next step involves cloning the installation script from the provided GitHub repository. Execute 
-# `git clone https://github.com/UzairDeveloper223/Install-Kali-Linux-in-termux-on-Android-with-VNC/tree/Master`
+# `git clone https://github.com/UzairDeveloper223/Install-Kali-Linux-in-termux-on-Android-with-VNC.git`
 to retrieve the script. Subsequently, grant execute permissions to the script with 
-# `chmod +x Installkali.sh`.
+# cd Install-Kali-Linux-in-termux-on-Android-with-VNC
+by entering the upper command you will be directed to my script directory
+now eneter the next command
+down command make the script executable
+# `chmod +x 'Install Kali.sh'`.
 Finally, initiate the installation by running 
-# `./Installkali.sh`.
+# `./'Install Kali.sh'`.
 These steps streamline the process, making it accessible for users to seamlessly install Kali Linux on their Termux environment.
